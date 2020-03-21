@@ -1,4 +1,25 @@
-用于测试
+用于测试远程推送文件夹
+
+github上创建同名文件夹sub_test
+
+本地创建 同名文件夹sub_test
+
+本地使用git base
+
+git init 
+git add 
+git commit 
+git remote add origin https://github.com/zhfworks/sub_test.git
+
+如果存在就删除 
+git remote rm origin
+最后 git push origin master 
+
+
+
+
+
+
 
 
 
